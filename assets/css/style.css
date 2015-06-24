@@ -233,6 +233,10 @@ input {
 	letter-spacing: 1px;
 }
 
+#main-header .logo h2{
+    word-spacing: 7px;
+}
+
 #main-header h3 {
 	margin-top: 10px;
 }
