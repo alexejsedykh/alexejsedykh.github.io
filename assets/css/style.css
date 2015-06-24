@@ -100,7 +100,8 @@ a {
 	-o-transition: background-color .4s linear, color .4s linear;
 	-ms-transition: background-color .4s linear, color .4s linear;
 	transition: background-color .4s linear, color .4s linear;
-	color: #1abc9c;
+	color: #CD2626;
+        font-size: 20px;
 }
 a:hover,
 a:focus {
@@ -259,7 +260,7 @@ background:#f5f5f5;
   top: 5px;
 }
 .sec-title h2 {
-  color: #0eb493;
+  color: #8B8378;
   font-size: 28px;
   font-weight: 800;
   text-transform: uppercase;
